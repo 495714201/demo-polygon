@@ -4,7 +4,7 @@
 很古老的一个样式了，今天翻出来整理了一下。<br>
 预览图如下：
 </p>
-![](http://demo.cssmoban.com/cssthemes2/tpmo_400_polygon/images/gallery/9.jpg)
+![image](https://raw.githubusercontent.com/495714201/Imgs-for-markdown/master/note-vue-06.png)
 <p>
 不兼容ie8 及以下
 </p>
