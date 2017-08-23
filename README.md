@@ -5,5 +5,3 @@
 预览图如下：
 
 ![image](https://raw.githubusercontent.com/495714201/Imgs-for-markdown/master/demo-polygon-01.png)
-
-
