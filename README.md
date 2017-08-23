@@ -5,6 +5,8 @@
 预览图如下：
 </p>
 ![image](https://raw.githubusercontent.com/495714201/Imgs-for-markdown/master/demo-polygon-01.png)
+<br>
+![image](https://raw.githubusercontent.com/495714201/Imgs-for-markdown/master/demo-polygon-01.png)
 <p>
 不兼容ie8 及以下
 </p>
